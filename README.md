@@ -1,0 +1,2 @@
+# ExamEKPA
+Exercise for exams 
